@@ -1,0 +1,22 @@
+enter choice : 1
+enter product name :Laptop
+enter quantity : 5
+enter each price of product : 55000
+product added successfully
+enter choice : 1
+enter product name :Mouse
+enter quantity : 10
+enter each price of product : 700
+product added successfully
+enter choice : 2
+enter product name :Mouse
+enter new quantity : 15
+Quantity update sucessfully
+enter choice : 4
+{'Laptop': {'quantity': 5, 'priceofproduct': 55000}, 'Mouse': {'quantity': 15, 'priceofproduct': 700}}
+enter choice : 5
+most  expensive product :  55000
+enter choice : 6
+total inventory value : $ 282000
+enter choice : 7
+Thank you
