@@ -1,0 +1,26 @@
+enter name : Divyraj
+enter $Divyraj's Current balance:4000
+enter pin : 1234
+enter name : Harshraj
+enter $Harshraj's Current balance:5000
+enter pin : 5678 
+enter name : 
+{'Divyraj': {'balance': 4000, 'pin': 1234}, 'Harshraj': {'balance': 5000, 'pin': 5678}}
+enter account holder name for further services:Divyraj
+Enter choice from 1 -5:1
+enter deposit amount : 40
+40 is succsessfully deposited
+enter account holder name for further services:Divyraj
+Enter choice from 1 -5:2
+Enter withdrwal amount : 160
+160 successfully withdraw
+enter account holder name for further services:Divyraj
+Enter choice from 1 -5:3
+current balance : 3880
+enter account holder name for further services:Divyraj
+Enter choice from 1 -5:4
+Deposited : 40
+withrawn :  160
+enter account holder name for further services:Divyraj
+Enter choice from 1 -5:5
+Thank you for using Atm          
