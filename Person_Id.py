@@ -38,3 +38,8 @@ while True :
     newstudent = input("you want to other person (Y/N) :")
     if newstudent == "N":
         break
+
+
+
+
+
